@@ -9,5 +9,5 @@ int main ()
 {
 	int a, b;
 	cin >> a >> b;
-	cout << "resultat : " << a+b << endl;
+	cout << "Resultat : " << a+b << endl;
 }
